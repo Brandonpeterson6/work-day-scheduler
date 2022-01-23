@@ -18,6 +18,6 @@ For this project I was given a starter code with most of the HTML and CSS, i fin
 * THEN the saved events persist
 
 ## LINK
-
+https://brandonpeterson6.github.io/work-day-scheduler/ 
 ## SCREENSHOT
 ![alt image](/assets/images/workday-screenshot.png?raw=true)
